@@ -1,7 +1,5 @@
 #  Store — Sneaker Shop App in SwiftUI
 
-# 🏪 SneakersStore — Sneaker Shop App in SwiftUI
-
 **SneakersStore** is an iOS app built with **SwiftUI** that allows users to browse, search, and purchase sneakers. It features a clean and modern UI with smooth navigation and demo checkout functionality.
 
 ---
